@@ -1,7 +1,4 @@
-.h1ctr{text-align: center;
-}
-
-
+<meta name="viewport" content="width=device-width, user-scalable=no">
 
 .header{
     display: flex;
@@ -21,7 +18,8 @@
     background-repeat: no-repeat;
     }
 
-
+.h1ctr{text-align: center;
+}
     .fa:hover {
     opacity: 0.7;
     }
